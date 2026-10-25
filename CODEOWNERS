@@ -521,7 +521,7 @@ source/_integrations/hypontech.markdown @jcisio
 source/_integrations/ialarm.markdown @RyuzakiKK @bigmoby
 source/_integrations/iammeter.markdown @lewei50 @IAMMETER @miwyf
 source/_integrations/iaqualink.markdown @flz
-source/_integrations/icloud.markdown @Quentame @nzapponi
+source/_integrations/icloud.markdown @Quentame @nzapponi @timlaing
 source/_integrations/idasen_desk.markdown @abmantis
 source/_integrations/idrive_e2.markdown @patrickvorgers
 source/_integrations/igloohome.markdown @keithle888
@@ -1656,10 +1656,10 @@ source/_actions/husqvarna_automower.override_schedule_work_area.markdown @Thomas
 source/_actions/hydrawise.resume.markdown @dknowles2 @thomaskistler @ptcryan @frenck
 source/_actions/hydrawise.start_watering.markdown @dknowles2 @thomaskistler @ptcryan @frenck
 source/_actions/hydrawise.suspend.markdown @dknowles2 @thomaskistler @ptcryan @frenck
-source/_actions/icloud.display_message.markdown @Quentame @nzapponi
-source/_actions/icloud.lost_device.markdown @Quentame @nzapponi
-source/_actions/icloud.play_sound.markdown @Quentame @nzapponi
-source/_actions/icloud.update.markdown @Quentame @nzapponi
+source/_actions/icloud.display_message.markdown @Quentame @nzapponi @timlaing
+source/_actions/icloud.lost_device.markdown @Quentame @nzapponi @timlaing
+source/_actions/icloud.play_sound.markdown @Quentame @nzapponi @timlaing
+source/_actions/icloud.update.markdown @Quentame @nzapponi @timlaing
 source/_actions/image.snapshot.markdown @home-assistant/core
 source/_actions/image_processing.scan.markdown @home-assistant/core
 source/_actions/imap.delete.markdown @jbouwh
